@@ -5,7 +5,7 @@
  
      <br>
  
-     <font size=18> Postdoc Researcher <font size=18>
+     <font size=18> Postdoc Researcher </font>
      
      <br>
      
