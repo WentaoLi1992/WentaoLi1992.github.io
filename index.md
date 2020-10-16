@@ -1,7 +1,11 @@
+---
+title-heading: false
+---
+
 <img src="fig/lwt.jpeg" width = "300" height = "200" align=left />
 
  <center>
-     <h1>Wentao Li</h1>
+     <font size=30> Wentao Li </font>
      <div>
          <span>
              180XXXXXXXX
