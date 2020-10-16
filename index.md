@@ -5,21 +5,4 @@
  
      Postdoc Researcher
      
-     <div>
-         <span>
-             school
-         </span>
-         ·
-         <span>
-             Wentao.Li@uts.edu.au
-         </span>
-         ·
-         <span>
-             ddd
-         </span>
-         ·
-         <span>
-             nnn
-         </span>
-     </div>
  </center>
