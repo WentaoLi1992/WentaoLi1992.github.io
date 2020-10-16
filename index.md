@@ -1,4 +1,4 @@
-<table>
+<table border="0">
  	<tr>
   		<td>January</td>
    		<td>$100</td>
