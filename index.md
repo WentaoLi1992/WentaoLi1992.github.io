@@ -1,11 +1,11 @@
 ---
-title-heading: false
+title: none
 ---
 
 <img src="fig/lwt.jpeg" width = "300" height = "200" align=left />
 
  <center>
-     <font size=30> Wentao Li haha </font>
+     <font size=30> Wentao Li </font>
      <div>
          <span>
              180XXXXXXXX
