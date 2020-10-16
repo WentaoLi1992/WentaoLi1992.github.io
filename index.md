@@ -1,4 +1,4 @@
-<img src="fig/lwt.jpeg" width = "500" height = "300" align=left />
+<img src="fig/lwt.jpeg" width = "400" height = "300" align=left />
 
  <center>
      <font size=30> Wentao Li </font>
