@@ -19,14 +19,10 @@
      <br>
      
      University of Technology Sydney
-     
+    
      <br>
      
-     15 Broadway, Ultimo NSW 2007
-     
-     <br>
-     
-	    Sydney, Australia
+     Sydney, Australia
      
      <br>
      
