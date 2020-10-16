@@ -3,7 +3,8 @@
 | :------| ------: | :------: |
 | 短文本 | 中等文本 | 稍微长一点的文本 |
 
-* 我们来测试以下内联样式吧
+
+
 <style type="text/css" rel="stylesheet">
 .example { 
     color: red; 
