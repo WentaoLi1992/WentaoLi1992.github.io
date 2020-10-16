@@ -5,12 +5,9 @@
  
      <br>
      
-     <br>
- 
-     Postdoc Researcher
+     <font size=10> Postdoc Researcher </font>
      
-     <br>
-     
+     <br><br>
      
      Australian Artificial Intelligence Institute
      
@@ -26,9 +23,7 @@
      
      Sydney, Australia   dddd
      
-     <br>
-     <br>
-     
+     <br><br>
      
      Wentao.Li@uts.edu.au
  </center>
