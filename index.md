@@ -85,22 +85,23 @@ IEEE International Conference on Data Engineering (ICDE), 2018. (<font color=blu
 Social Recommendation Using Euclidean Embedding <br>
 IEEE International Joint Conference on Neural Network (IJCNN), 2017. (<font color=blue>CORE A</font>)
 
-
-- **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Zhongfu Wu. <br>
-Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
-IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
+- Min Gao, **Wentao Li**. <br>
+Shilling Attack and Detection Approach for Social Recommendation <br>
+Science Press, 2017. (<font color=blue>Monograph</font>, In Chinese)
 
 - Kan Tan, Min Gao, **Wentao Li**, Renli Tian, Junhao Wen, Qingyu Xiong. <br>
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection <br>
 Acta Automatica Sinica, 2017. (<font color=blue>CCF A</font>, In Chinese)
 
+- **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Zhongfu Wu. <br>
+Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
+IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
+
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features <br>
 Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
 
-- Min Gao, **Wentao Li**. <br>
-Shilling Attack and Detection Approach for Social Recommendation <br>
-Science Press, 2017. (<font color=blue>Monograph</font>, In Chinese)
+
 
 
 
