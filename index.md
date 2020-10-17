@@ -90,6 +90,9 @@ IEEE International Joint Conference on Neural Network (IJCNN), 2017. (<font colo
 Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
 IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
 
+- Kan Tan, Min Gao, Wentao Li, Renli Tian, Junhao Wen, Qingyu Xiong <br>
+Two-layer Sampling Active Learning Algorithm for Social Spammer Detection <br>
+Acta Automatica Sinica, 2017. (<font color=blue>CCF A</font>, In Chinese)
 
 
 
