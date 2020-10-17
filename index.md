@@ -81,6 +81,16 @@ The VLDB Journal, 2019. (<font color=blue>CORE A*</font>)
 Exacting Eccentricity for Small-World Networks <br>
 IEEE International Conference on Data Engineering (ICDE), 2018. (<font color=blue>CORE A*</font> | <a href="doc/[icde 2018].pdf">PDF</a> | <a href="doc/[slides 2018].pdf">SLIDES</a>)
 
+- Wentao Li, Min Gao, Wenge Rong, Junhao Wen, Qingyu Xiong, Ruixi Jia, Tong Dou. <br>
+Social Recommendation Using Euclidean Embedding <br>
+IEEE International Joint Conference on Neural Network (IJCNN), 2017. (<font color=blue>CORE A</font>)
+
+
+- Wentao Li, Min Gao, Wenge Rong, Junhao Wen, Qingyu Xiong, Ruixi Jia, Tong Dou. <br>
+Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
+IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
+
+
 
 
 
