@@ -75,7 +75,7 @@ International Conference on Management of Data (SIGMOD), 2019. (<font color=blue
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Eccentricities on Small-World Networks <br>
-The VLDB Journal, 2019. (<font color=blue>CORE A*</font>)
+The VLDB Journal, 2019. (<font color=blue>CORE A*</font>| <a href="doc/[vldbj 2019].pdf">PDF</a>)
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Exacting Eccentricity for Small-World Networks <br>
