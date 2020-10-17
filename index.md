@@ -111,5 +111,9 @@ Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://p
 - Computer Networks, Chongqing University, 2015.
 - The Fundamentals of Computer, Chongqing University, 2014.
 
+## Honors and Awards
+- SIGMOD Travel Award, Jun-2019
+- Outstanding Graduate of Chongqing City, Jun-2016
+- Outstanding Graduate of Chongqing University, Jun-2016
 
 
