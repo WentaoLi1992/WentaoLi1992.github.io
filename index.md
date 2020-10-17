@@ -1,7 +1,7 @@
 <img src="fig/lwt.jpeg" width = "400" align=left />
 
  <center>
-     <font size=25> Wentao Li </font>
+     <font size=20> Wentao Li </font>
  
      <br>
      
