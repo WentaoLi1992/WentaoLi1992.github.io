@@ -116,4 +116,3 @@ Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://p
 - Outstanding Graduate of Chongqing City, Jun-2016.
 - Outstanding Graduate of Chongqing University, Jun-2016.
 
-
