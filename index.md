@@ -7,7 +7,7 @@
      
      Postdoc Researcher
      
-     <br><br>
+     <br>
      
      Australian Artificial Intelligence Institute
      
@@ -23,7 +23,7 @@
      
      Sydney, Australia
      
-     <br><br>
+     <br>
      
      Wentao.Li@uts.edu.au
      
