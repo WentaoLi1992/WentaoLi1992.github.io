@@ -40,7 +40,19 @@ Wentao Li is currently a Postdoc Researcher under the supervisor of A/Prof. [Lu 
 - Data Mining
  * Anomaly Detection
  * Recommender System
-
+<ul>
+<li>Databases</li>
+ <ul>
+ <li>Graph Queries</li>
+ <li>Social Network Analysis</li>
+ </ul>
+ 
+<li>Data Mining</li>
+ <ul>
+ <li>Anomaly Detection</li>
+ <li>Recommender System</li>
+ </ul>
+</ul>
 
 
 
