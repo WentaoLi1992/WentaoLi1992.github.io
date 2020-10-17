@@ -1,13 +1,13 @@
 <img src="fig/lwt.jpeg" width = "400" align=left />
 
  <center>
-     <font size=30> Wentao Li </font>
+     <font size=25> Wentao Li </font>
  
      <br>
      
      Postdoc Researcher
      
-     <br>
+     <br><br>
      
      Australian Artificial Intelligence Institute
      
@@ -23,7 +23,7 @@
      
      Sydney, Australia
      
-     <br>
+     <br><br>
      
      Wentao.Li@uts.edu.au
      
