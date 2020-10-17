@@ -60,13 +60,18 @@ Wentao Li is currently a Postdoc Researcher under the supervisor of A/Prof. [Lu 
 
 
 ## Selected Publications
-- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
-Scaling Up Distance Labeling on Graphs with Core-Periphery Properties <br>
-Proceedings of the International Conference on Management of Data (SIGMOD), 2020. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2020].pdf">PDF</a> | <a href="doc/[slides 2020].pdf">SLIDES</a>)
+- Wentao Li, Min Gao, Fan Wu, Wenge Rong, Junhao Wen, Lu Qin. <br>
+Manipulating Black-Box Networks for Centrality Promotion <br>
+IEEE International Conference on Data Engineering (ICDE), 2021. (<font color=blue>CORE A*</font>)
+
 
 - Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
-Scaling Distance Labeling on Small-World Networks. <br>
-Proceedings of ACM Conference on Management of Data (SIGMOD), 2019. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2019].pdf">PDF</a> | <a href="doc/[slides 2019].pdf">SLIDES</a>)
+Scaling Up Distance Labeling on Graphs with Core-Periphery Properties <br>
+International Conference on Management of Data (SIGMOD), 2020. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2020].pdf">PDF</a> | <a href="doc/[slides 2020].pdf">SLIDES</a>)
+
+- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
+Scaling Distance Labeling on Small-World Networks <br>
+International Conference on Management of Data (SIGMOD), 2019. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2019].pdf">PDF</a> | <a href="doc/[slides 2019].pdf">SLIDES</a>)
 
 
 
