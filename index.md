@@ -102,6 +102,10 @@ A Shilling Attack Detection Algorithm Based on Popularity Degree Features <br>
 Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
 
 
+## Academia Services
+- External Reviewers: SIGKDD, ICDE, DASFAA, CIKM, ADC, PAKDD.
+
+
 
 
 
