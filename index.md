@@ -86,7 +86,7 @@ IEEE International Joint Conference on Neural Network (IJCNN), 2017. (<font colo
 
 - Min Gao, **Wentao Li**. <br>
 Shilling Attack and Detection Approach for Social Recommendation <br>
-China Science Publishing & Media Ltd., 2017. (<font color=blue>BOOK</font>, In Chinese)
+Science Press, 2017. (<font color=blue>BOOK</font>, In Chinese)
 
 - Kan Tan, Min Gao, **Wentao Li**, Renli Tian, Junhao Wen, Qingyu Xiong. <br>
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection <br>
