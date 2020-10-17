@@ -1,6 +1,6 @@
 <img src="fig/lwt.jpeg" width = "430" align=left />
  <center>
-     <font size=20> Wentao Li </font>
+     <font size=10> Wentao Li </font>
  
      <br>
      
