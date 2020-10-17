@@ -99,7 +99,7 @@ IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font colo
 
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features <br>
-Acta Automatica Sinica, 2015. (<font color=blue>CCF A</font>, <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
+Acta Automatica Sinica, 2015. (<font color=blue>CCF A</font> | <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
 
 
 ## Academia Services
