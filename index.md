@@ -1,5 +1,3 @@
-{::options auto_ids="false" /}
-
 <img src="fig/lwt.jpeg" width = "485" height = "324" align=left />
 
  <center>
