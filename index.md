@@ -96,7 +96,7 @@ Acta Automatica Sinica, 2017. (<font color=blue>CCF A</font>, In Chinese)
 
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features
-Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">Granted Patent</a>, In Chinese)
+Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
 
 
 
