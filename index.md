@@ -60,8 +60,8 @@ Wentao Li is currently a Postdoc Researcher under the supervisor of A/Prof. [Lu 
 
 
 ## Selected Publications
-- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <\br>
-Scale Distance Labeling on Graphs with Core-Periphery Properties <\br>
+- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
+Scale Distance Labeling on Graphs with Core-Periphery Properties <br>
 Proceedings of the International Conference on Management of Data (SIGMOD), 2020.
 
 
