@@ -94,7 +94,7 @@ IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font colo
 Two-layer Sampling Active Learning Algorithm for Social Spammer Detection <br>
 Acta Automatica Sinica, 2017. (<font color=blue>CCF A</font>, In Chinese)
 
-- Wentao Li, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
+- **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
 A Shilling Attack Detection Algorithm Based on Popularity Degree Features
 Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">Granted Patent</a>, In Chinese)
 
