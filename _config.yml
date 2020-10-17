@@ -1,4 +1,5 @@
 name: wentao's site
 title: null
 
+markdown: kramdown
 auto_ids: false
