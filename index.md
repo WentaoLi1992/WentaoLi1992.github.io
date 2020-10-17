@@ -112,7 +112,7 @@ Acta Automatica Sinica, 2015. (<font color=blue>CCF A</font> | <a href="https://
 - The Fundamentals of Computer, Chongqing University, 2014.
 
 ## Honors and Awards
-- SIGMOD Travel Award, Jun-2019.
-- Outstanding Graduate of Chongqing City, Jun-2016.
-- Outstanding Graduate of Chongqing University, Jun-2016.
+- SIGMOD Travel Award, 2019.
+- Outstanding Graduate of Chongqing City, 2016.
+- Outstanding Graduate of Chongqing University, 2016.
 
