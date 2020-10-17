@@ -99,8 +99,8 @@ A Shilling Attack Detection Algorithm Based on Popularity Degree Features <br>
 Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://patents.google.com/patent/CN104809393A/en">Granted Patent</a>, In Chinese)
 
 - Min Gao, **Wentao Li**. <br>
-Shilling Attack and Detection Approach for Social Recommendation. <br>
-Science Press. 2017.01 (<font color=blue>Monograph</font>, In Chinese)
+Shilling Attack and Detection Approach for Social Recommendation <br>
+Science Press, 2017 (<font color=blue>Monograph</font>, In Chinese)
 
 
 
