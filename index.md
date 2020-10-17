@@ -26,6 +26,16 @@
      <br><br>
      
      Wentao.Li@uts.edu.au
+     
+     <div>
+     <span>
+      <a href="https://scholar.google.com/citations?hl=en&user=0k75zWsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+     </span>
+     ·
+     <span>
+      <a href="https://dblp.uni-trier.de/pid/60/8180-1.html">DBLP</a>
+     </span>
+     </div>
  </center>
 
 <br><br>
