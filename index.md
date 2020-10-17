@@ -94,7 +94,7 @@ Two-layer Sampling Active Learning Algorithm for Social Spammer Detection <br>
 Acta Automatica Sinica, 2017. (<font color=blue>CCF A</font>, In Chinese)
 
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Zhongfu Wu. <br>
-Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
+Dropout Prediction in MOOCs Using Behavior Features and Multi-View Semi-Supervised Learning <br>
 IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
 
 - **Wentao Li**, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Bin Ling. <br>
