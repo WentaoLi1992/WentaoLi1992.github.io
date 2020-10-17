@@ -1,5 +1,5 @@
 name: wentao's site
 title: null
 
-markdown: kramdown
+markdown: GFM
 auto_ids: false
