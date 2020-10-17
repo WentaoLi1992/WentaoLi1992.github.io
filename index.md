@@ -86,7 +86,7 @@ Social Recommendation Using Euclidean Embedding <br>
 IEEE International Joint Conference on Neural Network (IJCNN), 2017. (<font color=blue>CORE A</font>)
 
 
-- Wentao Li, Min Gao, Wenge Rong, Junhao Wen, Qingyu Xiong, Ruixi Jia, Tong Dou. <br>
+- Wentao Li, Min Gao, Hua Li, Qingyu Xiong, Junhao Wen, Zhongfu Wu. <br>
 Dropout Prediction in MOOCs Using Behavior Features and Multi-view Semi-supervised Learning <br>
 IEEE International Joint Conference on Neural Network (IJCNN), 2016. (<font color=blue>CORE A</font>)
 
