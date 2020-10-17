@@ -105,7 +105,7 @@ Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://p
 ## Academia Services
 - External Reviewers: SIGKDD, ICDE, DASFAA, CIKM, ADC, PAKDD, etc.
 
-## Teaching Experiences
+## Teaching Experiences (TA)
 - Data Structures and Algorithms, University of Technology Sydney, 2020.
 - Enterprise Business Requirements, University of Technology Sydney, 2020.
 - Computer Networks, Chongqing University, 2015.
