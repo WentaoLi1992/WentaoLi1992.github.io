@@ -100,7 +100,7 @@ Acta Automatica Sinica, 2016. (<font color=blue>CCF A</font>, <a href="https://p
 
 - Min Gao, **Wentao Li**. <br>
 Shilling Attack and Detection Approach for Social Recommendation <br>
-Science Press, 2017 (<font color=blue>Monograph</font>, In Chinese)
+Science Press, 2017. (<font color=blue>Monograph</font>, In Chinese)
 
 
 
