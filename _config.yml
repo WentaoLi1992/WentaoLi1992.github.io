@@ -1,4 +1,8 @@
 name: wentao's site
 title: null
 
-auto_ids: false
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Disable auto-generated ID's for headings
+  auto_ids: false
