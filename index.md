@@ -73,8 +73,13 @@ International Conference on Management of Data (SIGMOD), 2020. (<font color=blue
 Scaling Distance Labeling on Small-World Networks <br>
 International Conference on Management of Data (SIGMOD), 2019. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2019].pdf">PDF</a> | <a href="doc/[slides 2019].pdf">SLIDES</a>)
 
+- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
+Eccentricities on Small-World Networks <br>
+The VLDB Journal, 2019. (<font color=blue>CORE A*</font>)
 
-
+- Wentao Li, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
+Exacting Eccentricity for Small-World Networks <br>
+IEEE International Conference on Data Engineering (ICDE), 2018. (<font color=blue>CORE A*</font> | <a href="doc/[icde 2018].pdf">PDF</a> | <a href="doc/[slides 2018].pdf">SLIDES</a>)
 
 
 
