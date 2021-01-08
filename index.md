@@ -64,7 +64,7 @@ International Conference on Management of Data (SIGMOD), 2020. (<font color=blue
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Scaling Distance Labeling on Small-World Networks <br>
-International Conference on Management of Data (SIGMOD), 2019. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2019].pdf">PDF</a> | <a href="doc/[slides 2019].pdf">SLIDES</a>)
+International Conference on Management of Data (SIGMOD), 2019. (<font color=blue>CORE A*</font> | <a href="doc/[sigmod 2019].pdf">PDF</a> | <a href="doc/[slides 2019].pdf">SLIDES</a> |<a href="code/[sigmod 2019].zip">CODE</a>)
 
 - **Wentao Li**, Miao Qiao, Lu Qin, Ying Zhang, Lijun Chang, Xuemin Lin. <br>
 Eccentricities on Small-World Networks <br>
